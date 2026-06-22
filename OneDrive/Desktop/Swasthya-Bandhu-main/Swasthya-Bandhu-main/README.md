@@ -1,4 +1,4 @@
-# 🏥 SWASTHYA BANDHU
+# 🏥 Med Triage
 
 ## AI-Powered Healthcare Platform for India
 
@@ -8,7 +8,7 @@
 
 ## 🎯 PROJECT OVERVIEW
 
-Swasthya Bandhu is a comprehensive healthcare platform that connects patients with verified doctors using AI-powered symptom analysis. The platform provides intelligent triage, location-based doctor matching, and complete appointment management for both patients and doctors.
+Med Triage is a comprehensive healthcare platform that connects patients with verified doctors using AI-powered symptom analysis. The platform provides intelligent triage, location-based doctor matching, and complete appointment management for both patients and doctors.
 
 ### Key Features
 
