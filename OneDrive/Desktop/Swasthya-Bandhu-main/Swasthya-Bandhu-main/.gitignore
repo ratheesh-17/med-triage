@@ -1,0 +1,101 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+
+# Reports & Generated Files
+reports/
+*.pdf
+*.xlsx
+
+# ML Models & Large Files
+ml_models/models/
+ml_models/models_bioclinical_new/
+ml_models/training/
+ml_models/data/
+ml_models/*.pkl
+ml_models/*.pt
+ml_models/*.pth
+ml_models/*.joblib
+ml_models/.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Frontend
+frontend-react/node_modules/
+frontend-react/dist/
+frontend-react/build/
+frontend-react/.next/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
+.tmp/
+temp/
